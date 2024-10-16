@@ -750,6 +750,13 @@ section,
 }
 
 @media (max-width: 768px) {
+
+  .hero img{
+    height: 400px;
+    width: 385px;
+    margin-top: 150px;
+  }
+
   .hero h2 {
     font-size: 32px;
   }
