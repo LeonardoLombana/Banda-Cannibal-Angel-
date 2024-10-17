@@ -772,6 +772,10 @@ section,
       margin-top: 50px;
       content: url('..//img/heroMovil2.png');
   }
+
+  .enlace-youtube{
+    width: 100%;
+  }
 }
 
 /*--------------------------------------------------------------
